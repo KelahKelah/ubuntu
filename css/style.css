@@ -1,0 +1,64 @@
+/* App should be able to laod ajax request form a server */
+/* Being able to make animations  */
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 200;
+    box-sizing: border-box;
+}
+#nav-righty i {
+    border-right: #545454 2px solid;
+    padding: 10px;
+    /* border-radius: 5px; */
+}
+#nav-lefty i {
+    border-right: #545454 2px solid;
+    padding: 10px;
+
+}
+li {
+    display: block !important;
+    /* background-color: #cc5200; */
+    padding: 5%;
+    margin: 5%;
+}
+ul  {
+    color: #f2f2f2;
+}
+.active{
+    background-color: #e66b00;
+}
+.sidebar {
+    color: #f2f2f2; 
+}
+div {
+    background-color: #545454;
+    width: 10vw;
+    height: 100vh;
+}
+.nav-wrap {
+    background-color: #404040;
+}
+nav {
+    width: 100vw;
+    border-bottom: #545454 2px solid;
+}
+.nav-lefty {
+    position: relative;
+    left: 80px;
+} 
+.nav-righty {
+    right: 50%;
+}
+
+
+
+
+
+ 
+
+
+   
+  
+
