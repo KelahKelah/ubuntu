@@ -1,6 +1,7 @@
 $(document).ready(function(){
 
-    $('i').hover(high, high) 
+    $('i').hove
+    r(high, high) 
         $('.fa, #date').css("color", "#fff");
         // event.preventDefault();
     
