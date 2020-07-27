@@ -7,6 +7,12 @@ body {
     font-weight: 200;
     box-sizing: border-box;
 }
+.click {
+    width: 25px;
+    width: 25px;
+    border-radius: 2px;
+    background-color: #e66b00;
+}
 #nav-righty i {
     border-right: #545454 2px solid;
     padding: 10px;
@@ -24,7 +30,10 @@ li {
     margin: 5%;
 }
 ul  {
-    color: #f2f2f2;
+    /* color: #f2f2f2; */
+}
+nav > ul > i, p {
+    color:#e66b00;
 }
 .active{
     background-color: #e66b00;
@@ -34,8 +43,8 @@ ul  {
 }
 div {
     background-color: #545454;
-    width: 10vw;
-    height: 100vh;
+    width: 10%;
+    height: 100%;
 }
 .nav-wrap {
     background-color: #404040;
